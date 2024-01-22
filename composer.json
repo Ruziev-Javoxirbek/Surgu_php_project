@@ -1,0 +1,15 @@
+{
+    "name": "ssurg/surgut",
+    "autoload": {
+        "psr-4": {
+            "Ssurg\\Surgut\\": "Framework/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Рузиев Жавохирбек",
+            "email": "ruziev_zhz@edu.surgu.ru"
+        }
+    ],
+    "require": {}
+}
